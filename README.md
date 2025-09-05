@@ -83,10 +83,6 @@ README.md                   # Project documentation
 
 Pull requests and suggestions are welcome! Please follow the code style and add tests for new features.
 
-## License
-
-MIT
-
 ---
 
 **FinBoard** is designed for flexibility, clarity, and a great user experience. For questions or support, contact the maintainer or open an issue on GitHub.
