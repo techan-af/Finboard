@@ -1,4 +1,5 @@
-# 📺 [Demo Video](https://drive.google.com/file/d/1TTCRI2KkjPfDJWvOVwb8yiDJLLHkvUKF/view?usp=sharing)
+# ![FinBoard Screenshot](./public/image.png)
+#  [Demo Video(Link to Test Run) ](https://drive.google.com/file/d/1TTCRI2KkjPfDJWvOVwb8yiDJLLHkvUKF/view?usp=sharing)
 
 # FinBoard Dashboard
 
